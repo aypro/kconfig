@@ -1,2 +1,0 @@
-# kconfig
-My kernel configuration
